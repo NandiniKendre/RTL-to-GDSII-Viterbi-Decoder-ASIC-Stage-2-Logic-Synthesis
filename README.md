@@ -1,0 +1,2 @@
+# RTL-to-GDSII-Viterbi-Decoder-ASIC-Stage-2-Logic-Synthesis
+This repository documents the logic synthesis stage of the ASIC implementation flow for a K=7 Convolutional Encoder and Viterbi Decoder. Following successful RTL functional verification, the design was synthesized using a TCL-driven flow to convert the Verilog RTL into a technology-mapped gate-level netlist targeting a standard-cell library.
